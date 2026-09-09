@@ -45,7 +45,7 @@ Rebuild after any change, or leave it watching:
 node tools/build-reader.mjs --watch
 ```
 
-Requires Node. If you don't have it, just read the markdown directly — nothing is lost.
+Requires Node. If you don't have it, just read the markdown directly. Nothing is lost.
 
 ## What's here
 
